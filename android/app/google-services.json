@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831044028074",
+    "project_id": "learn-bba6e",
+    "storage_bucket": "learn-bba6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831044028074:android:8cb7c3a277bad45bd972d3",
+        "android_client_info": {
+          "package_name": "vn.edu.ntu.truong.flutter_ngoctruong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831044028074-497f6iivc6c033aubaied12ljj312m8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD67Ov9hRfeIj4OD4Htv0DTD6MkFrLSOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831044028074-497f6iivc6c033aubaied12ljj312m8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
